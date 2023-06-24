@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="0dp" />
+    <stroke android:width="0dp" />
+    <solid android:color="#00000000" />
+    <padding
+        android:bottom="-90dp"
+        android:left="-180dp"
+        android:right="-180dp"
+        android:top="-90dp" />
+    <path android:pathData="M-180,-90h720v360h-720z M Your_Lower_Latitude, Your_Lower_Longitude Your_Upper_Latitude, Your_Upper_Longitude z" />
+</shape>
